@@ -3,4 +3,6 @@ Authenticator for every system that require sign in or sign up. System collects 
 
 (https://authenticator-demo.herokuapp.com/)
 
+You can check index.js and post request or get respond.
+
 
